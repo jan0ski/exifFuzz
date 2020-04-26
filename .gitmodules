@@ -1,0 +1,6 @@
+[submodule "exif-samples"]
+	path = exif-samples
+	url = https://github.com/ianare/exif-samples
+[submodule "exif"]
+	path = exif
+	url = https://github.com/mkttanabe/exif

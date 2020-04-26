@@ -1,0 +1,6 @@
+_noexif.jpg
+mutated.jpg
+exif/*
+exif-samples/*
+crashes/windows/*
+crashes/linux/*
